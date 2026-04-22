@@ -1,0 +1,28 @@
+ul {
+    list-style-type: upper-roman;
+}
+
+li:hover {
+    background-color: black;
+    color: red;
+}
+
+li {
+    background-color: darkslateblue;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+}
+
+p {
+    color: lightgray;
+}
+
+.info {
+    font-family: arial;
+}
+
+#maintitle {
+    font-family: arial;
+    font-size: large;
+}
